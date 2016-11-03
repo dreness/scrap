@@ -1,0 +1,22 @@
+cycler==0.10.0
+dask==0.11.1
+decorator==4.0.10
+imageio==1.6
+imutils==0.3.6
+matplotlib==1.5.3
+mercurial==3.5.2
+moviepy==0.2.2.11
+networkx==1.11
+numpy==1.11.2
+Pillow==3.4.2
+# pygame==1.9.2a0
+pygobject==3.20.1
+pyparsing==2.1.10
+pyreadline==2.1
+python-dateutil==2.5.3
+pytz==2016.7
+scikit-image==0.12.3
+scipy==0.18.1
+six==1.10.0
+toolz==0.8.0
+tqdm==4.9.0
